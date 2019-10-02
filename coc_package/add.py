@@ -10,3 +10,15 @@ def add(a, b):
     if not isinstance(a, int) or not isinstance(b, int):
         raise AttributeError("This function only accepts integer arguments")
     return a + b
+def sub(a, b):
+    """
+    A function that subtracts two integers
+
+    :param a: (int) The first integer
+    :param b: (int) The second integer
+    :return: (int) The difference of a and b
+    :raises: AttributeError, if a and b are not integers
+    """
+    if not isinstance(a, int) or not isinstance(b, int):
+        raise AttributeError("This function only accepts integer arguments")
+    return a - b
