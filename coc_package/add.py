@@ -13,7 +13,7 @@ def add(a, b):
  
  def subtract(a, b):
     """
-    A function that adds two integers
+    A function that adds subtracts integers
 
     :param a: (int) The first integer
     :param b: (int) The second integer
