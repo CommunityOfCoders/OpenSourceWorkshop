@@ -1,7 +1,7 @@
 def add(a, b):
     """
-    A fucntion that adds two integers
-
+    A function that adds two integers
+    hiiii
     :param a: (int) The first integer
     :param b: (int) The second integer
     :return: (int) The sum of a and b
