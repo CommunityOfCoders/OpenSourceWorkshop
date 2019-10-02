@@ -9,7 +9,6 @@ matrix:
     dist: xenial
     sudo: true
     env: TOXENV=codestyle
-#    before_install: true
 
 install:
   - pip install tox
