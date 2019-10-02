@@ -1,7 +1,7 @@
 def add(a, b):
     """
     A function that adds two integers
-
+    this is just to try git add and push
     :param a: (int) The first integer
     :param b: (int) The second integer
     :return: (int) The sum of a and b
