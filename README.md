@@ -3,6 +3,19 @@
 
 [![Build Status](https://api.travis-ci.org/CommunityOfCoders/OpenSourceWorkshop.svg?branch=master)](https://travis-ci.com/CommunityOfCoders/OpenSourceWorkshop)
 
+
+### To run tests
+```
+tox
+```
+
+### To run codestyle tests
+```
+tox -e codestyle
+```
+
+---
+
 **This text is bold**  
 __Bold__
 
